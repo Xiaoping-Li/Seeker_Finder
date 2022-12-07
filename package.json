@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/leelali/Seeker_Finder#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "cors": "^2.8.4",
-    "express": "^4.16.3",
+    "express": "^4.18.2",
     "knex": "^0.14.6",
     "mysql": "^2.15.0",
     "nodemon": "^1.17.5",
